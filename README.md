@@ -10,4 +10,4 @@ Speech Recognition for Regional Dialects. We adjust the OpenAI
 Whisper small model by fine-tuning its hyperparameters. Our
 finetuned model achieved 5th rank with private score of 0.75438.
 # Huggingface Model
-ashrafulparan/whisper-small-bangla
+[ashrafulparan/whisper-small-bangla](https://huggingface.co/ashrafulparan/whisper-small-bangla)
